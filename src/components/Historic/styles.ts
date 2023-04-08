@@ -1,5 +1,4 @@
 import styled from "styled-components";
-
 interface PriceHighlightProps {
   variant: "income" | "outcome";
 }
