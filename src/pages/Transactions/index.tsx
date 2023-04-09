@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import { Header } from "../../components/Header";
 import { Historic } from "../../components/Historic";
 import { Summary } from "../../components/Summary";
